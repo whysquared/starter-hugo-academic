@@ -71,6 +71,6 @@ highlight_name: true
 ---
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Board certified radiation oncologist and clinician-researcher applying informatics and aritifical intelligence on real-world healthcare data and clinical problems. As Co-Director of the NYU Perlmutter Cancer Center Datahub I co-lead a team of clinicians, researchers, and data analysts to build a scalable, usable clinical and translational data ecosystem. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
