@@ -21,13 +21,13 @@ feature:
   icon_pack: fab
   name: Python
 - description: 
-  icon: chart-line
+  icon: stethoscope
   icon_pack: fas
   name: Medicine
 - description:
-  icon: camera-retro
+  icon: database
   icon_pack: fas
-  name: Photography
+  name: Big Data
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
