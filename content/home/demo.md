@@ -49,6 +49,8 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+
+active: false
 +++
 
 ## 👋 Welcome to the Academic Template
