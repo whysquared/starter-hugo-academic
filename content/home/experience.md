@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Academic Experience
 subtitle:
 
 # Date format for experience
@@ -43,6 +43,33 @@ experience:
     location: New York
     date_start: '2020-09-01'
     date_end: ''
+    description: 
+  
+  - title: Radiation Oncology Resident
+    company: UCLA Health
+    company_url: ''
+    company_logo: org-x
+    location: Los Angeles
+    date_start: '2016-07-01'
+    date_end: '2020-06-30'
+    description: 
+    
+  - title: MD-PhD
+    company: Northwestern University Feinberg School of Medicine
+    company_url: ''
+    company_logo: org-feinberg-logo
+    location: Chicago
+    date_start: '2008-09-01'
+    date_end: '2015-05-21'
+    description: 
+    
+  - title: BS with Honors
+    company: Stanford University
+    company_url: ''
+    company_logo: org-Stanford-logo
+    location: Stanford
+    date_start: '2002-09-01'
+    date_end: '2006-06-01'
     description: 
 
 design:
