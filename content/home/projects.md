@@ -29,6 +29,8 @@ content:
     tag: '*'
   - name: Deep Learning
     tag: Deep Learning
+  - name: Clinical Informatics
+    tag: Clinical Informatics
   - name: Other
     tag: Demo
 
