@@ -33,8 +33,8 @@ item:
   url: ""
 - certificate_url: https://www.coursera.org/account/accomplishments/verify/VZD6M5KNMER7
   date_end: ""
-  date_start: ""
-  description: "2018-12-11"
+  date_start: "2018-12-11"
+  description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
   title: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
