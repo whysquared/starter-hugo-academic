@@ -25,7 +25,7 @@ experience:
   - title: Co-Director
     company: NYU Perlmutter Cancer Center Datahub
     company_url: ''
-    company_logo: org-gc
+    company_logo: org-Nyu-stacked_color
     location: New York
     date_start: '2021-03-01'
     date_end: ''
@@ -39,7 +39,7 @@ experience:
   - title: Radiation Oncologist
     company: NYU Langone
     company_url: ''
-    company_logo: org-x
+    company_logo: org-Nyu-stacked_color
     location: New York
     date_start: '2020-09-01'
     date_end: ''
@@ -48,7 +48,7 @@ experience:
   - title: Radiation Oncology Resident
     company: UCLA Health
     company_url: ''
-    company_logo: org-x
+    company_logo: org-UCLA-logo
     location: Los Angeles
     date_start: '2016-07-01'
     date_end: '2020-06-30'
@@ -57,7 +57,7 @@ experience:
   - title: MD-PhD
     company: Northwestern University Feinberg School of Medicine
     company_url: ''
-    company_logo: org-feinberg-logo
+    company_logo: org-Northwestern-Medicine-logo
     location: Chicago
     date_start: '2008-09-01'
     date_end: '2015-05-21'
@@ -66,7 +66,7 @@ experience:
   - title: BS with Honors
     company: Stanford University
     company_url: ''
-    company_logo: org-Stanford-logo
+    company_logo: org-Stanford_Tree_logo
     location: Stanford
     date_start: '2002-09-01'
     date_end: '2006-06-01'
