@@ -24,8 +24,8 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: https://www.coursera.org/account/accomplishments/verify/F54EMJ5TP2C3
-  date_end: "2018-12-02"
-  date_start: ""
+  date_end: ""
+  date_start: "2018-12-02"
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
@@ -33,8 +33,8 @@ item:
   url: ""
 - certificate_url: https://www.coursera.org/account/accomplishments/verify/VZD6M5KNMER7
   date_end: ""
-  date_start: "2021-01-01"
-  description: ""
+  date_start: ""
+  description: "2018-12-11"
   organization: Coursera
   organization_url: https://www.coursera.org
   title: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
