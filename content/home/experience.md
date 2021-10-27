@@ -25,7 +25,7 @@ experience:
   - title: Co-Director
     company: NYU Perlmutter Cancer Center Datahub
     company_url: ''
-    company_logo: org-Nyu-stacked_color
+    company_logo: org-Nyu_stacked_color
     location: New York
     date_start: '2021-03-01'
     date_end: ''
@@ -39,7 +39,7 @@ experience:
   - title: Radiation Oncologist
     company: NYU Langone
     company_url: ''
-    company_logo: org-Nyu-stacked_color
+    company_logo: org-Nyu_stacked_color
     location: New York
     date_start: '2020-09-01'
     date_end: ''
