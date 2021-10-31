@@ -17,17 +17,29 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 
+  icon: stethoscope
+  icon_pack: fas
+  name: Healthcare
+- description: 
+  icon: dna
+  icon_pack: fas
+  name: Cancer
+- description: 
+  icon: microscope
+  icon_pack: fas
+  name: Research
+- description: 
   icon: python
   icon_pack: fab
   name: Python
-- description: 
-  icon: stethoscope
-  icon_pack: fas
-  name: Medicine
 - description:
   icon: database
   icon_pack: fas
   name: Big Data
+- description: 
+  icon: code-branch
+  icon_pack: fas
+  name: Machine Learning
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
